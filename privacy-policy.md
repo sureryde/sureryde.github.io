@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Last Updated: February 5, 2026**
+**Last Updated: February 15, 2026**
 
 ## Introduction
 
-SureRyde ("we," "our," or "us") operates the SureRyde mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
+Forward Alpha, LLC ("we," "our," or "us"), doing business as SureRyde, operates the SureRyde mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
 
 Please read this Privacy Policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
@@ -14,10 +14,8 @@ Please read this Privacy Policy carefully. By using the App, you agree to the co
 
 When you register for an account, we collect:
 - Full name
-- Email address
 - Phone number
 - Profile photo (optional)
-- Government-issued ID (for verification, optional)
 
 ### Location Information
 
@@ -39,10 +37,11 @@ When you register for an account, we collect:
 - Unique device identifiers
 - Push notification tokens
 
-### Payment Information
+### Payment and Purchase Information
 
-- Payment method details (processed securely through third-party payment processors)
-- Transaction history
+- In-app purchase history (subscriptions and credit packages), processed through Apple App Store and Google Play Store
+- Transaction records
+- We do not directly collect or store your payment card details. All payments are processed by Apple or Google through their respective app store platforms.
 
 ## How We Use Your Information
 
@@ -50,7 +49,8 @@ We use the collected information to:
 
 - Create and manage your account
 - Connect riders with drivers
-- Process ride bookings and payments
+- Process ride bookings
+- Process in-app purchases (subscriptions and credits)
 - Enable communication between users
 - Provide customer support
 - Send notifications about rides and bookings
@@ -69,10 +69,11 @@ We may share your information with:
 - Contact information is shared only after booking confirmation
 
 ### Service Providers
-- Payment processors
-- Cloud hosting services
-- Analytics providers
-- Customer support tools
+We use the following third-party services to operate the App:
+- **Google Firebase** — Authentication, database, cloud functions, crash reporting, analytics, and push notifications
+- **Google Maps** — Map display and location services
+- **RevenueCat** — Subscription and in-app purchase management
+- **Apple App Store / Google Play Store** — Payment processing for subscriptions and in-app purchases
 
 ### Legal Requirements
 We may disclose information if required by law, court order, or government request, or to protect our rights, privacy, safety, or property.
@@ -80,9 +81,28 @@ We may disclose information if required by law, court order, or government reque
 ### Business Transfers
 In the event of a merger, acquisition, or sale of assets, user information may be transferred.
 
+## Subscriptions and In-App Purchases
+
+The App offers auto-renewable subscriptions and consumable in-app purchases:
+
+- **SureRyde Pro** ($7.99/month): An auto-renewable subscription that provides unlimited matches, monthly boosts, and priority features.
+- **Credit Packages**: Consumable in-app purchases ($1.99 for 5 credits, $4.99 for 15 credits, $8.99 for 30 credits) used for ride boosts.
+
+Payment is charged to your Apple ID or Google Play account at confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current billing period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store or Google Play Store after purchase. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription.
+
 ## Data Retention
 
 We retain your information for as long as your account is active or as needed to provide services. You may request deletion of your account and associated data at any time.
+
+## Data Deletion
+
+You can delete your account and all associated data at any time through the App:
+
+1. Go to **Profile** → **Settings** → **Delete Account**
+2. Confirm your identity via phone verification
+3. Your account and personal data will be permanently deleted
+
+You may also request account deletion by emailing admin@theforwardalpha.com. We will process deletion requests within 30 days.
 
 ## Data Security
 
@@ -90,7 +110,7 @@ We implement appropriate technical and organizational measures to protect your p
 - Encryption of data in transit and at rest
 - Secure authentication mechanisms
 - Regular security assessments
-- Access controls for employee data access
+- Access controls for data access
 
 ## Your Rights and Choices
 
@@ -101,7 +121,7 @@ You have the right to:
 - **Opt-out**: Disable marketing communications
 - **Location**: Control location permissions through your device settings
 
-To exercise these rights, contact us at privacy@sureryde.com or use the in-app settings.
+To exercise these rights, contact us at admin@theforwardalpha.com or use the in-app settings.
 
 ## Children's Privacy
 
@@ -109,7 +129,11 @@ The App is not intended for children under 18. We do not knowingly collect infor
 
 ## Third-Party Services
 
-The App may contain links to third-party services. We are not responsible for the privacy practices of these services. We encourage you to review their privacy policies.
+The App uses third-party services that may collect information used to identify you. Links to the privacy policies of third-party service providers used by the App:
+
+- [Google Firebase](https://firebase.google.com/support/privacy)
+- [Google Maps](https://policies.google.com/privacy)
+- [RevenueCat](https://www.revenuecat.com/privacy)
 
 ## International Data Transfers
 
@@ -123,15 +147,15 @@ We may update this Privacy Policy from time to time. We will notify you of chang
 
 If you have questions about this Privacy Policy, please contact us:
 
-- **Email**: privacy@sureryde.com
-- **Address**: [Your Business Address]
+- **Email**: admin@theforwardalpha.com
+- **Address**: Forward Alpha, LLC, 651 N Broad St, Suite 201, Middletown, DE 19709
 
 ## California Privacy Rights (CCPA)
 
 California residents have additional rights:
 - Right to know what personal information is collected
 - Right to know if personal information is sold or disclosed
-- Right to opt-out of the sale of personal information
+- Right to opt-out of the sale of personal information (we do not sell personal information)
 - Right to non-discrimination for exercising privacy rights
 
 ## EU/EEA Privacy Rights (GDPR)
@@ -144,4 +168,4 @@ If you are in the EU/EEA, you have additional rights including:
 
 ---
 
-© 2026 SureRyde Inc. All rights reserved.
+© 2026 Forward Alpha, LLC. All rights reserved.

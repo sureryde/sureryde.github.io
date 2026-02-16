@@ -1,10 +1,10 @@
 # Terms of Service
 
-**Last Updated: February 5, 2026**
+**Last Updated: February 15, 2026**
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the SureRyde mobile application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using the SureRyde mobile application ("App"), operated by Forward Alpha, LLC ("we," "our," or "us"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. Description of Service
 
@@ -33,9 +33,11 @@ You must create an account to use the App. You agree to:
 ### 4.2 Verification
 We may require identity verification, including:
 - Phone number verification
-- Email verification
 - Government ID verification (optional but recommended)
 - Background checks for drivers (where applicable)
+
+### 4.3 Account Deletion
+You may delete your account at any time through the App settings (Profile → Settings → Delete Account) or by contacting admin@theforwardalpha.com. Upon deletion, your personal data will be permanently removed in accordance with our Privacy Policy.
 
 ## 5. User Conduct
 
@@ -74,60 +76,87 @@ If you book rides, you agree to:
 - Prices are displayed before booking confirmation
 - SureRyde may charge a service fee
 
-### 6.2 Payment Processing
-- Payments are processed through third-party payment providers
-- You authorize us to charge your selected payment method
-- Refunds are subject to our cancellation policy
-
-### 6.3 Cancellation Policy
+### 6.2 Ride Cancellation Policy
 - Cancellations made 24+ hours before departure: Full refund
 - Cancellations made 2-24 hours before: 50% refund
 - Cancellations made less than 2 hours before: No refund
 - Driver cancellations: Full refund to riders
 
-## 7. Ratings and Reviews
+## 7. Subscriptions and In-App Purchases
+
+### 7.1 SureRyde Pro Subscription
+The App offers an auto-renewable subscription plan:
+- **SureRyde Pro**: $7.99 per month
+- Includes unlimited matches, 3 monthly ride boosts, and priority features
+- A 7-day free trial may be offered to new subscribers
+
+### 7.2 Subscription Billing
+- Payment is charged to your Apple ID account (iOS) or Google Play account (Android) at confirmation of purchase
+- Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current billing period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period at the current subscription price
+- Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription
+
+### 7.3 Managing Subscriptions
+- You can manage or cancel your subscription at any time through your device's App Store or Google Play Store settings
+- **iOS**: Settings → Apple ID → Subscriptions
+- **Android**: Google Play Store → Subscriptions
+- Cancellation takes effect at the end of the current billing period. You will retain access to Pro features until that date.
+
+### 7.4 Credit Packages
+The App offers consumable in-app credit packages:
+- **5 Credits** — $1.99
+- **15 Credits** — $4.99
+- **30 Credits** — $8.99
+
+Credits are used to boost ride visibility. Credits are non-refundable, non-transferable, and have no cash value. Credits do not expire.
+
+### 7.5 Refunds for In-App Purchases
+All in-app purchases (subscriptions and credit packages) are processed through the Apple App Store or Google Play Store. Refund requests for in-app purchases must be directed to Apple or Google through their respective refund policies:
+- **Apple**: https://support.apple.com/en-us/HT204084
+- **Google Play**: https://support.google.com/googleplay/answer/2479637
+
+## 8. Ratings and Reviews
 
 - Users may rate and review each other after completed rides
 - Ratings must be honest and based on actual experience
 - We reserve the right to remove fraudulent or inappropriate reviews
 - Users with consistently low ratings may be suspended
 
-## 8. Safety
+## 9. Safety
 
-### 8.1 Verification Features
-We offer optional verification features including:
+### 9.1 Verification Features
+We offer verification features including:
 - Phone verification
-- Email verification
 - ID verification
 - Profile photos
 
-### 8.2 Safety Guidelines
+### 9.2 Safety Guidelines
 - Share ride details with trusted contacts
 - Use in-app messaging for communication
 - Meet in public, well-lit areas
-- Trust your instincts—cancel if uncomfortable
+- Trust your instincts — cancel if uncomfortable
 
-### 8.3 Reporting
-Report safety concerns, incidents, or policy violations through the App or by contacting support@sureryde.com.
+### 9.3 Reporting
+Report safety concerns, incidents, or policy violations through the App or by contacting admin@theforwardalpha.com.
 
-## 9. Intellectual Property
+## 10. Intellectual Property
 
-All content, features, and functionality of the App are owned by SureRyde and protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works without our written consent.
+All content, features, and functionality of the App are owned by Forward Alpha, LLC and protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works without our written consent.
 
-## 10. Disclaimers
+## 11. Disclaimers
 
-### 10.1 Service Availability
+### 11.1 Service Availability
 THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE." WE DO NOT GUARANTEE UNINTERRUPTED OR ERROR-FREE SERVICE.
 
-### 10.2 User Interactions
+### 11.2 User Interactions
 WE ARE NOT RESPONSIBLE FOR THE CONDUCT OF USERS. YOU USE THE SERVICE AND INTERACT WITH OTHER USERS AT YOUR OWN RISK.
 
-### 10.3 Transportation
+### 11.3 Transportation
 WE DO NOT PROVIDE TRANSPORTATION SERVICES. WE ARE NOT RESPONSIBLE FOR THE QUALITY, SAFETY, OR LEGALITY OF RIDES OFFERED THROUGH THE APP.
 
-## 11. Limitation of Liability
+## 12. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, SURERYDE SHALL NOT BE LIABLE FOR:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, FORWARD ALPHA, LLC SHALL NOT BE LIABLE FOR:
 - Indirect, incidental, special, or consequential damages
 - Loss of profits, data, or goodwill
 - Personal injury or property damage resulting from rides
@@ -135,20 +164,20 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, SURERYDE SHALL NOT BE LIABLE FOR:
 
 OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID TO US IN THE PAST 12 MONTHS.
 
-## 12. Indemnification
+## 13. Indemnification
 
-You agree to indemnify and hold harmless SureRyde, its officers, directors, employees, and agents from any claims, damages, losses, or expenses arising from:
+You agree to indemnify and hold harmless Forward Alpha, LLC, its officers, directors, employees, and agents from any claims, damages, losses, or expenses arising from:
 - Your use of the App
 - Your violation of these Terms
 - Your violation of any third-party rights
 - Your interactions with other users
 
-## 13. Termination
+## 14. Termination
 
-### 13.1 By You
-You may terminate your account at any time through the App settings or by contacting support.
+### 14.1 By You
+You may terminate your account at any time through the App settings or by contacting admin@theforwardalpha.com.
 
-### 13.2 By Us
+### 14.2 By Us
 We may suspend or terminate your account for:
 - Violation of these Terms
 - Fraudulent or illegal activity
@@ -156,41 +185,40 @@ We may suspend or terminate your account for:
 - Extended inactivity
 - Any other reason at our discretion
 
-## 14. Dispute Resolution
+## 15. Dispute Resolution
 
-### 14.1 Informal Resolution
-Before filing a claim, you agree to contact us at legal@sureryde.com to attempt informal resolution.
+### 15.1 Informal Resolution
+Before filing a claim, you agree to contact us at admin@theforwardalpha.com to attempt informal resolution.
 
-### 14.2 Arbitration
+### 15.2 Arbitration
 Any disputes not resolved informally shall be resolved through binding arbitration, except for claims that qualify for small claims court.
 
-### 14.3 Class Action Waiver
+### 15.3 Class Action Waiver
 You agree to resolve disputes individually and waive the right to participate in class actions.
 
-## 15. Governing Law
+## 16. Governing Law
 
-These Terms are governed by the laws of [Your State/Country], without regard to conflict of law principles.
+These Terms are governed by the laws of the State of Delaware, without regard to conflict of law principles.
 
-## 16. Changes to Terms
+## 17. Changes to Terms
 
 We may modify these Terms at any time. We will notify you of material changes through the App or email. Continued use after changes constitutes acceptance.
 
-## 17. Severability
+## 18. Severability
 
 If any provision of these Terms is found unenforceable, the remaining provisions will continue in effect.
 
-## 18. Entire Agreement
+## 19. Entire Agreement
 
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and SureRyde.
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and Forward Alpha, LLC.
 
-## 19. Contact Information
+## 20. Contact Information
 
 For questions about these Terms, contact us:
 
-- **Email**: legal@sureryde.com
-- **Support**: support@sureryde.com
-- **Address**: [Your Business Address]
+- **Email**: admin@theforwardalpha.com
+- **Address**: Forward Alpha, LLC, 651 N Broad St, Suite 201, Middletown, DE 19709
 
 ---
 
-© 2026 SureRyde Inc. All rights reserved.
+© 2026 Forward Alpha, LLC. All rights reserved.
